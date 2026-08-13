@@ -1,0 +1,14 @@
+{
+  "categories": [
+    { "id": "c1", "name": "بار گرم", "items": [
+      { "id": "i1", "name": "اسپرسو", "price": "70000", "desc": "", "image": "" },
+      { "id": "i2", "name": "کاپوچینو", "price": "85000", "desc": "", "image": "" }
+    ]},
+    { "id": "c2", "name": "بار سرد", "items": [
+      { "id": "i3", "name": "آیس لاته", "price": "95000", "desc": "", "image": "" }
+    ]},
+    { "id": "c3", "name": "کیک‌ها", "items": [
+      { "id": "i4", "name": "کیک شکلاتی", "price": "120000", "desc": "", "image": "" }
+    ]}
+  ]
+}
